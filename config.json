@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservncrypt",
+        "uuid": 21640905,
+        "checksum": "tvrusl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
